@@ -39,3 +39,37 @@
 
 
 > The majority of users appear to initiate three booking attempts, indicating a robust level of repeat engagement with the agency's services.
+
+5- **Trend of Bookings Over Time**
+
+![download](https://github.com/itsahmedmohamedamin/Customer-Clustering-for-Travel-Agency-Customers/assets/50253297/e0cd3d2b-caad-4b7e-8f23-1d6013584ef8)
+
+
+> The graph indicates a marked decline in booking activity from August through November 2013, after which bookings return to higher levels, albeit with several notable downward fluctuations.
+
+6- **Original Destination Distance by Booking Status**
+
+![download](https://github.com/itsahmedmohamedamin/Customer-Clustering-for-Travel-Agency-Customers/assets/50253297/094dc8a7-c5e1-467b-ae46-292ef4a29829)
+
+> The majority of individuals do not make bookings at the most frequently searched destinations.
+
+7- **Number of Room Count by Hotel Continent**
+
+![download](https://github.com/itsahmedmohamedamin/Customer-Clustering-for-Travel-Agency-Customers/assets/50253297/21b7319a-efa9-4d9a-a6f4-c6a7831f65f7)
+
+> The average Room Count is almost the same in different Hotel Continents
+
+
+8- **Search Duration Distribution**
+
+![download](https://github.com/itsahmedmohamedamin/Customer-Clustering-for-Travel-Agency-Customers/assets/50253297/75ed7475-e9ad-438f-b033-120f2ccc1d5f)
+
+> Most Search Durations is between 0 and 15 and it mostly tends to 0
+
+
+9- **Days in Advance vs. Duration**
+
+![download](https://github.com/itsahmedmohamedamin/Customer-Clustering-for-Travel-Agency-Customers/assets/50253297/21c2b3cd-2603-41be-9da8-14cf9e41d776)
+
+> The majority of customers have a duration ranging from 0 to 40 days, with a minimal number of customers experiencing durations exceeding 50 days.
+
