@@ -73,3 +73,13 @@
 
 > The majority of customers have a duration ranging from 0 to 40 days, with a minimal number of customers experiencing durations exceeding 50 days.
 
+
+## Now, Let's Analyze the clusters from the Unsupervised ML model
+
+1- **The analysis of the dataset revealed the presence of six distinct clusters, each representing unique behavioral patterns among the users.**
+
+![download (12)](https://github.com/itsahmedmohamedamin/Customer-Clustering-for-Travel-Agency-Customers/assets/50253297/4d421e18-5130-4811-b7f9-cff7993e4b32)
+
+2- **As depicted in the graph below, Cluster 2 exhibits the highest count.**
+
+![download (13)](https://github.com/itsahmedmohamedamin/Customer-Clustering-for-Travel-Agency-Customers/assets/50253297/652d7e5c-a9f8-48b0-9fb6-997c86c94416)
